@@ -20,3 +20,7 @@ This repository serves as a portfolio of my work and a demonstration of the skil
 - :snake: Python
 - :fire: PyTorch
 - :package: ModelScope
+
+## 🙏 Acknowledgment
+
+Special thanks to [@3pachub](https://github.com/3pachub) [@qianxingyucode](https://github.com/qianxingyucode) for their valuable contributions to this project. Their assistance with Cloud Play Print was greatly appreciated.
