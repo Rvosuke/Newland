@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"cloudplayprint\startup_stm32f103xe.o"
+"cloudplayprint\main.o"
+"cloudplayprint\gpio.o"
+"cloudplayprint\usart.o"
+"cloudplayprint\stm32f1xx_it.o"
+"cloudplayprint\stm32f1xx_hal_msp.o"
+"cloudplayprint\stm32f1xx_hal_gpio_ex.o"
+"cloudplayprint\stm32f1xx_hal_tim.o"
+"cloudplayprint\stm32f1xx_hal_tim_ex.o"
+"cloudplayprint\stm32f1xx_hal_uart.o"
+"cloudplayprint\stm32f1xx_hal.o"
+"cloudplayprint\stm32f1xx_hal_rcc.o"
+"cloudplayprint\stm32f1xx_hal_rcc_ex.o"
+"cloudplayprint\stm32f1xx_hal_gpio.o"
+"cloudplayprint\stm32f1xx_hal_dma.o"
+"cloudplayprint\stm32f1xx_hal_cortex.o"
+"cloudplayprint\stm32f1xx_hal_pwr.o"
+"cloudplayprint\stm32f1xx_hal_flash.o"
+"cloudplayprint\stm32f1xx_hal_flash_ex.o"
+"cloudplayprint\stm32f1xx_hal_exti.o"
+"cloudplayprint\system_stm32f1xx.o"
+"cloudplayprint\printf.o"
+--strict --scatter "CloudPlayPrint\CloudPlayPrint.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "CloudPlayPrint.map" -o CloudPlayPrint\CloudPlayPrint.axf
