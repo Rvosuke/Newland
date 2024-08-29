@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.baidu.ai.speech.realtime.app-mergeDebugResources-9:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zeyan\\.AndroidStudio3.4\\.gradle\\caches\\transforms-4\\7534fbbaa60a868a31b66654375b642c\\transformed\\appcompat-1.1.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

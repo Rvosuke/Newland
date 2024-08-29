@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ScannerActivity">
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/include_head"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="蓝牙"
+        android:textColor="#242A99"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/include" />
+
+    <RadioButton
+        android:id="@+id/bleSwitchRBtn"
+        android:layout_width="72dp"
+        android:layout_height="33dp"
+        android:layout_marginEnd="24dp"
+        android:background="@drawable/selector_switch_icon"
+        android:button="@null"
+        app:layout_constraintBottom_toBottomOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/scanDeviceTxv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="扫描设备"
+        android:textColor="#242A99"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toStartOf="@+id/scanDeviceImv"
+        app:layout_constraintStart_toStartOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <ImageView
+        android:id="@+id/scanDeviceImv"
+        android:layout_width="40dp"
+        android:layout_height="32dp"
+        app:layout_constraintBottom_toBottomOf="@+id/scanDeviceTxv"
+        app:layout_constraintEnd_toEndOf="@+id/bleSwitchRBtn"
+        app:layout_constraintStart_toStartOf="@+id/bleSwitchRBtn"
+        app:layout_constraintTop_toTopOf="@+id/scanDeviceTxv"
+        app:srcCompat="@drawable/btn_next_undisabled" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="可用设备"
+        android:textColor="#242A99"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/scanDeviceTxv"
+        app:layout_constraintTop_toBottomOf="@+id/scanDeviceTxv" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/deviceRcv"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.baidu.ai.speech.realtimeasr.test" >
+4
+5    <uses-sdk
+5-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:5:15-41
+7        android:targetSdkVersion="33" />
+7-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:11:5-15:81
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:11:22-76
+11        android:functionalTest="false"
+11-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:13:22-53
+13        android:label="Tests for com.baidu.ai.speech.realtimeasr"
+13-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:15:22-79
+14        android:targetPackage="com.baidu.ai.speech.realtimeasr" />
+14-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:12:22-77
+15
+16    <application android:debuggable="true" >
+16-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:7:5-9:19
+17        <uses-library android:name="android.test.runner" />
+17-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:8:9-60
+17-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest3483384927091802954.xml:8:23-57
+18    </application>
+19
+20</manifest>

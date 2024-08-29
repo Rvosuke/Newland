@@ -1,0 +1,14 @@
+com.baidu.ai.speech.realtime.app-jetified-appcompat-resources-1.1.0-0 C:\Users\zeyan\.AndroidStudio3.4\.gradle\caches\transforms-4\18f7760709c1c32c698474d4926540db\transformed\jetified-appcompat-resources-1.1.0\res
+com.baidu.ai.speech.realtime.app-coordinatorlayout-1.0.0-1 C:\Users\zeyan\.AndroidStudio3.4\.gradle\caches\transforms-4\72e6e035001d51bdaa3dac7c2c09a4c3\transformed\coordinatorlayout-1.0.0\res
+com.baidu.ai.speech.realtime.app-appcompat-1.1.0-2 C:\Users\zeyan\.AndroidStudio3.4\.gradle\caches\transforms-4\7534fbbaa60a868a31b66654375b642c\transformed\appcompat-1.1.0\res
+com.baidu.ai.speech.realtime.app-core-1.1.0-3 C:\Users\zeyan\.AndroidStudio3.4\.gradle\caches\transforms-4\78fde55e5a0e9d2c0c2f9f07cc5a3201\transformed\core-1.1.0\res
+com.baidu.ai.speech.realtime.app-preference-1.1.0-4 C:\Users\zeyan\.AndroidStudio3.4\.gradle\caches\transforms-4\943bb57ad4f6c1bba966c1efbdf27c1b\transformed\preference-1.1.0\res
+com.baidu.ai.speech.realtime.app-recyclerview-1.0.0-5 C:\Users\zeyan\.AndroidStudio3.4\.gradle\caches\transforms-4\af783613c5ae7266e784345f6fd3a868\transformed\recyclerview-1.0.0\res
+com.baidu.ai.speech.realtime.app-constraintlayout-1.1.3-6 C:\Users\zeyan\.AndroidStudio3.4\.gradle\caches\transforms-4\f5ca1e49a0ce7e70bdb9c3cc11bf37eb\transformed\constraintlayout-1.1.3\res
+com.baidu.ai.speech.realtime.app-pngs-7 D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\generated\res\pngs\debug
+com.baidu.ai.speech.realtime.app-resValues-8 D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\generated\res\resValues\debug
+com.baidu.ai.speech.realtime.app-packageDebugResources-9 D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.baidu.ai.speech.realtime.app-packageDebugResources-10 D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.baidu.ai.speech.realtime.app-debug-11 D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.baidu.ai.speech.realtime.app-debug-12 D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\debug\res
+com.baidu.ai.speech.realtime.app-main-13 D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\res

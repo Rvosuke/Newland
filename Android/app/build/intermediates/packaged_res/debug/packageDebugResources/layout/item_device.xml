@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+    <TextView
+        android:id="@+id/deviceNameTxv"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="设备名"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/deviceMacTxv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MAC地址"
+        app:layout_constraintBottom_toBottomOf="@+id/deviceNameTxv"
+        app:layout_constraintEnd_toStartOf="@+id/selectedImv"
+        app:layout_constraintTop_toTopOf="@+id/deviceNameTxv" />
+
+    <ImageView
+        android:id="@+id/selectedImv"
+        android:layout_width="31dp"
+        android:layout_height="37dp"
+        android:layout_marginEnd="8dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/deviceMacTxv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/deviceMacTxv"
+        app:layout_constraintVertical_bias="0.517"
+        app:srcCompat="@drawable/icon_select" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

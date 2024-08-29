@@ -1,0 +1,7 @@
+#Wed Aug 28 11:05:49 SGT 2024
+base.0=D\:\\Cloud\\speech_realtime_api-master\\android-realtime-asr\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=D\:\\Cloud\\speech_realtime_api-master\\android-realtime-asr\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\2\\classes.dex
+path.0=0/classes.dex
+path.1=2/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.baidu.ai.speech.realtimeasr"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:6:5-71
+11-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:6:22-68
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:7:5-79
+12-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:8:5-67
+13-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:8:22-64
+14
+15    <application
+15-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:10:5-27:19
+16        android:allowBackup="true"
+16-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:11:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] C:\Users\zeyan\.gradle\caches\transforms-3\f6b47b007245391dd3fe12d466c13b4a\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:12:9-43
+20        android:label="@string/app_name"
+20-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:13:9-41
+21        android:networkSecurityConfig="@xml/network_security_config"
+21-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:16:9-69
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:14:9-54
+23        android:supportsRtl="true"
+23-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:15:9-35
+24        android:theme="@style/AppTheme" >
+24-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:17:9-40
+25        <activity
+25-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:19:9-26:20
+26            android:name="com.baidu.ai.speech.realtime.android.MainActivity"
+26-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:19:19-83
+27            android:exported="true" >
+27-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:20:13-36
+28            <intent-filter>
+28-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:21:13-25:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:22:17-69
+29-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:22:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:24:17-77
+31-->D:\Cloud\speech_realtime_api-master\android-realtime-asr\app\src\main\AndroidManifest.xml:24:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>

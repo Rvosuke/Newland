@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.baidu.ai.speech.realtime.app-mergeDebugResources-9:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zeyan\\.AndroidStudio3.4\\.gradle\\caches\\transforms-4\\7534fbbaa60a868a31b66654375b642c\\transformed\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

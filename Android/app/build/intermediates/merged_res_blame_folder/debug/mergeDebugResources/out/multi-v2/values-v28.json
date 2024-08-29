@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.baidu.ai.speech.realtime.app-mergeDebugResources-9:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zeyan\\.AndroidStudio3.4\\.gradle\\caches\\transforms-4\\7534fbbaa60a868a31b66654375b642c\\transformed\\appcompat-1.1.0\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,397",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,392,584"
+                    }
+                }
+            ]
+        }
+    ]
+}

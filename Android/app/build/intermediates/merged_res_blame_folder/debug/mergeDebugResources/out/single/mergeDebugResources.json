@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/layout_activity_printer.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/layout/activity_printer.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_icon_check_right.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/icon_check_right.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_newlab_print_big_first.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/newlab_print_big_first.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_btn_switch_off.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/btn_switch_off.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_icon_fan.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/icon_fan.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_ico_eye_on.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/ico_eye_on.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/layout_activity_scanner.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/layout/activity_scanner.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_pic_welcome_verticality.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/pic_welcome_verticality.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_ico_eye_off.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/ico_eye_off.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/layout_activity_login.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_shape_btn_bg.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/shape_btn_bg.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/layout_item_device.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/layout/item_device.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_icon_check_error.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/icon_check_error.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_bg_text_while_outer_ring_gray.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/bg_text_while_outer_ring_gray.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_switch_on.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/switch_on.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/layout_include_head.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/layout/include_head.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_btn_play_normal.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/btn_play_normal.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_icon_light.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/icon_light.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_bg_text_blue_fillet.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/bg_text_blue_fillet.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/layout_activity_main.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_bg_login_image.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/bg_login_image.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/layout_common_mini.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/layout/common_mini.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_icon_set_normal.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/icon_set_normal.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_selector_ble_swish_icon.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/selector_ble_swish_icon.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_btn_cancel.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/btn_cancel.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_btn_radio_normal.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/btn_radio_normal.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_selector_switch_icon.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/selector_switch_icon.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_icon_lock.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/icon_lock.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-pngs-7:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_btn_radio_press.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/btn_radio_press.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_switch_off.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/switch_off.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_btn_next_undisabled.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/btn_next_undisabled.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_icon_select.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/icon_select.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_btn_login.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/btn_login.xml"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_btn_switch_on.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/btn_switch_on.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/drawable_ic_back.png.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/drawable/ic_back.png"
+    },
+    {
+        "merged": "com.baidu.ai.speech.realtime.app-debug-11:/xml_network_security_config.xml.flat",
+        "source": "com.baidu.ai.speech.realtime.app-main-13:/xml/network_security_config.xml"
+    }
+]
