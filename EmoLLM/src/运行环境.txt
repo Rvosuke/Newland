@@ -1,0 +1,13 @@
+资源配置:B1.large
+GPU：1gpu(s)，每个GPU显存：24 GB
+CPU：8core(s)，内存：24 GB
+
+
+镜像:CUDA12.1-PyTorch2.1.1
+基于 PyTorch2.1.1 版本的镜像，cuda12.1.1，conda3.10，ubuntu22.04
+
+模型:
+Chatglm3-6b
+Llama3-8B-Chinese-Chat
+InternLM2-7B-base
+Bge-m3
